@@ -7,10 +7,10 @@ Welcome to the **Data Structures and Algorithms (DSA)** repository, designed to 
 ---
 
 ## 📚 Table of Contents
-1. [Big-O Notation](#big-o-notation)
-2. [Data Structures](#data-structures)
-3. [Algorithms](#algorithms)
-4. [Interview Problems](#interview-problems)
+1. [Big-O Notation](#Big-O-Notation)
+2. [Data Structures](#Data-Structures)
+3. [Algorithms](#Algorithms)
+4. [Interview Problems](#Interview-Problems)
 
 ---
 
