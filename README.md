@@ -1,6 +1,8 @@
 # 🚀 Data Structures and Algorithms in Python for FAANG Interviews
 
-Welcome to the **Data Structures and Algorithms (DSA)** repository, designed to help you prepare for FAANG interviews using the Python programming language. 🐍 This repository includes comprehensive explanations and implementations of DSA concepts in Python, helping you ace your technical interviews!
+Welcome to the **Data Structures and Algorithms (DSA)** repository, designed to help you prepare for FAANG interviews using the Python programming language. 
+
+🐍 This repository includes comprehensive explanations and implementations of DSA concepts in Python, helping you ace your technical interviews!
 
 🌟 **Feel free to star this repo if you find it helpful!** 🌟
 
